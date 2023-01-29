@@ -4,7 +4,7 @@
 ### I have technical experience and interest in -
 * Machine Learning
 * Deep Learning
-* Computer vision 
+* Statistical and Predictive Modeling
 
 
 
